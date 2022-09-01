@@ -1,0 +1,15 @@
+{
+  "name": "crud-mern-fullstack",
+  "version": "1.0.0",
+  "description": "projet Mern full",
+  "main": "server.js",
+  "scripts": {
+   "start": "nodemon server.js"
+  },
+  "author": "fouzi92",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
